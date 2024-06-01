@@ -1,0 +1,36 @@
+2024-06-01 17:55:49,841 - error_logger - ERROR - This is an error message.
+2024-06-01 17:55:49,841 - error_logger - ERROR - ZeroDivisionError occurred
+Traceback (most recent call last):
+  File "/home/admin1/01_SOPHON_SERVER/3_SAMPLES/2_FACE_DETECTION/1_FACE_DETECTION_OPENVINO/openvino_detector/Ex.py", line 36, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+2024-06-01 17:55:49,841 - error_logger - ERROR - Exception details
+Traceback (most recent call last):
+  File "/home/admin1/01_SOPHON_SERVER/3_SAMPLES/2_FACE_DETECTION/1_FACE_DETECTION_OPENVINO/openvino_detector/Ex.py", line 36, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+2024-06-01 17:55:49,841 - error_logger - CRITICAL - This critical message will be logged to error.log.
+ 2024-06-01 17:57:23,889 - error_logger - ERROR - This is an error message.
+2024-06-01 17:57:23,889 - error_logger - ERROR - ZeroDivisionError occurred
+Traceback (most recent call last):
+  File "/home/admin1/01_SOPHON_SERVER/3_SAMPLES/2_FACE_DETECTION/1_FACE_DETECTION_OPENVINO/openvino_detector/Ex.py", line 36, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+2024-06-01 17:57:23,890 - error_logger - ERROR - Exception details
+Traceback (most recent call last):
+  File "/home/admin1/01_SOPHON_SERVER/3_SAMPLES/2_FACE_DETECTION/1_FACE_DETECTION_OPENVINO/openvino_detector/Ex.py", line 36, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+2024-06-01 17:57:23,890 - error_logger - CRITICAL - This critical message will be logged to error.log.
+2024-06-01 17:57:42,606 - error_logger - ERROR - This is an error message.
+2024-06-01 17:57:42,606 - error_logger - ERROR - ZeroDivisionError occurred
+Traceback (most recent call last):
+  File "/home/admin1/01_SOPHON_SERVER/3_SAMPLES/2_FACE_DETECTION/1_FACE_DETECTION_OPENVINO/openvino_detector/Ex.py", line 36, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+2024-06-01 17:57:42,606 - error_logger - ERROR - Exception details
+Traceback (most recent call last):
+  File "/home/admin1/01_SOPHON_SERVER/3_SAMPLES/2_FACE_DETECTION/1_FACE_DETECTION_OPENVINO/openvino_detector/Ex.py", line 36, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+2024-06-01 17:57:42,607 - error_logger - CRITICAL - This critical message will be logged to error.log.

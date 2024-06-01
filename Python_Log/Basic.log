@@ -1,0 +1,5 @@
+2024-06-01 17:57:23,890 - INFO - This is information log to Basic.log
+2024-06-01 17:57:23,890 - DEBUG - This is debug information to Basic.log
+2024-06-01 17:57:23,890 - ERROR - This is error information to Basic.log
+2024-06-01 17:57:23,890 - CRITICAL - This is critical information to Basic.log
+2024-06-01 17:57:23,890 - WARNING - This is warning information to Basic.log
